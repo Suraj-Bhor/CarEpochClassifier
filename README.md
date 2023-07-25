@@ -1,6 +1,6 @@
 # CarEpochClassifier: A Temporal and Morphological Automotive Analysis System
 
-CarEpochClassifier is an advanced machine learning-based project that employs state-of-the-art computer vision and deep learning techniques to provide comprehensive analysis and insights about cars from their visual data. This system goes beyond conventional image recognition and classification, instead offering chronological (temporal) classification, morphological classification, a modernity score based on model year, and a typicality score indicating the car's typical appearance for its body type and model year.
+CarEpochClassifier is a machine learning-based project that employs computer vision and deep learning techniques to provide comprehensive analysis and insights about cars from their visual data. This system goes beyond conventional image recognition and classification, instead offering chronological (temporal) classification, morphological classification, a modernity score based on model year, and a typicality score indicating the car's typical appearance for its body type and model year.
 
 ## Features
 - **Temporal Classification:** Estimation of the car's model year.
