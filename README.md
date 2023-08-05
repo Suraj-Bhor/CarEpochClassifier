@@ -7,7 +7,7 @@ app_file: app.py
 pinned: false
 license: mit
 ---
-![Screenshot from 2023-08-05 15-51-03](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/eb994067-95a0-4bd6-a909-2536991acc85)
+![Screenshot from 2023-08-05 15-51-03](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/26ea72fc-1e82-4d9c-9df9-3b16e38bd7a3)
 
 ### Check out the application:
 
@@ -62,8 +62,8 @@ python app.py
 You will be presented with a Gradio interface where you can upload images of cars to be classified.
 
 ### Overview of the application flowchart:
-![carcnn (2)](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/742e2d64-1aec-4335-b45a-c745e4d29244)
 
+![carcnn (2)](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/b5f60b5e-cf35-44ca-ab1c-51d4e2e1790d)
 
 
 
