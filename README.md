@@ -4,20 +4,18 @@ emoji: 🐨
 sdk: gradio
 sdk_version: 3.38.0
 app_file: app.py
-pinned: false
 license: mit
+link: https://huggingface.co/spaces/sbhor/Car_Design_Analysis
+
 ---
-![Screenshot from 2023-08-05 15-51-03](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/26ea72fc-1e82-4d9c-9df9-3b16e38bd7a3)
-
-### Check out the application:
-
-<a href="https://huggingface.co/spaces/sbhor/Car_Design_Analysis" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-orange">
-</a>
-
 
 # CarEpochClassifier: A Temporal and Morphological Automotive Analysis System
 
-CarEpochClassifier is an advanced machine learning-based project that employs state-of-the-art computer vision and deep learning techniques to provide comprehensive analysis and insights about cars from their visual data. This system goes beyond conventional image recognition and classification, instead offering chronological (temporal) classification, morphological classification, a modernity score based on model year, and a typicality score indicating the car's typical appearance for its body type and model year.
+![Screenshot from 2023-08-05 18-06-16](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/13465fa0-431b-432f-9e2f-6ebfc30550f5)
+*Image from: https://deepvisualmarketing.github.io/*
+
+
+CarEpochClassifier is a machine learning-based project that employs computer vision and deep learning techniques to provide comprehensive analysis and insights about cars from their visual data. This system goes beyond conventional image recognition and classification, instead offering chronological (temporal) classification, morphological classification, a modernity score based on model year, and a typicality score indicating the car's typical appearance for its body type and model year.
 
 ## Features
 - **Temporal Classification:** Estimation of the car's model year.
@@ -61,9 +59,17 @@ python app.py
 ```
 You will be presented with a Gradio interface where you can upload images of cars to be classified.
 
+![Screenshot from 2023-08-05 15-51-03](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/26ea72fc-1e82-4d9c-9df9-3b16e38bd7a3)
+
+### Check out the application:
+
+<a href="https://huggingface.co/spaces/sbhor/Car_Design_Analysis" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-orange">
+</a>
+
+
 ### Overview of the application flowchart:
 
 ![carcnn (2)](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/b5f60b5e-cf35-44ca-ab1c-51d4e2e1790d)
 
-
-
+### Dataset Acknowledgement
+This project makes use of the [Deep Visual Marketing dataset](https://deepvisualmarketing.github.io/), which provides a rich source of 1,451,784 images from 899 UK market car models.
