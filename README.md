@@ -7,8 +7,12 @@ app_file: app.py
 pinned: false
 license: mit
 ---
+![Screenshot from 2023-08-05 15-51-03](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/eb994067-95a0-4bd6-a909-2536991acc85)
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the application:
+
+<a href="https://huggingface.co/spaces/sbhor/Car_Design_Analysis" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hugging%20Face%20Demo--yellow"></a>
+
 
 # CarEpochClassifier: A Temporal and Morphological Automotive Analysis System
 
