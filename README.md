@@ -60,3 +60,10 @@ Execute the main Python script to start the Gradio interface.
 python app.py
 ```
 You will be presented with a Gradio interface where you can upload images of cars to be classified.
+
+### Overview of the application flowchart:
+![carcnn (2)](https://github.com/Suraj-Bhor/CarEpochClassifier/assets/26003031/742e2d64-1aec-4335-b45a-c745e4d29244)
+
+
+
+
